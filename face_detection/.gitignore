@@ -1,0 +1,10 @@
+venv/
+.idea/
+images/known_images/*.png
+images/known_images/compress_files/*.pickle
+
+data/*.pickle
+**/.jpg
+**/.png
+__pycache__/
+**/__pycache__/
